@@ -1,0 +1,5 @@
+"""
+Places of interest generation
+=============================
+
+"""
